@@ -1,0 +1,1 @@
+#sq & cube of a given no
